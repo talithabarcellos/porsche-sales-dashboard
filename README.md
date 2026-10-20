@@ -2,7 +2,7 @@
 
 Este projeto consiste em uma dashboard interativa de inteligência de vendas desenvolvida para analisar uma base de dados de 100 vendas sanitizadas da Porsche. A aplicação foi construída em um único arquivo HTML standalone, com design executivo em "Dark Mode" e hospedada via **GitHub Pages**.
 
-**Link da Dashboard Publicada:** `https://talithabarcellos.github.io/porsche-sales-dashboard/`
+**Link da Dashboard Publicada:** [https://talithabarcellos.github.io/porsche-sales-dashboard/](https://talithabarcellos.github.io/porsche-sales-dashboard/)
 
 ---
 
