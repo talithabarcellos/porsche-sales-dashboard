@@ -36,7 +36,7 @@ Para o desenvolvimento da dashboard, utilizou-se o modelo **ChatGPT com Canvas**
 >
 > *A interface deve ser moderna, limpa, no estilo 'Dark Mode' de luxo (fundo escuro, detalhes em cinza chumbo e elementos de destaque em vermelho clássico da marca), focada em executivos.*
 >
-> *### Requisitos da Interface:*
+> *Requisitos da Interface:*
 > *- **Painel de Filtros Globais:** UF, Modelo, Ano e Método de Pagamento.*
 > *- **Cards de KPIs:** Faturamento Total, Veículos Vendidos, Ticket Médio e Modelo Líder.*
 > *- **Gráficos Interativos:** Evolução temporal (Barra/Linha), Top Cidades (Barra Horizontal), Mix de Faturamento por Modelo (Donut) e Métodos de Pagamento por faixa de preço (Colunas Empilhadas).*
